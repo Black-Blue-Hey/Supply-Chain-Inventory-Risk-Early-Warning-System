@@ -81,19 +81,23 @@ The dashboard contains four pages:
 
 ```text
 data/
-└── raw/
-    ├── inventory_movements.csv
-    ├── inventory_opening_balances.csv
-    ├── products.csv
-    ├── purchase_order_lines.csv
-    ├── purchase_orders.csv
-    ├── suppliers.csv
-    └── warehouses.csv
+├── inventory_movements.csv
+├── inventory_opening_balances.csv
+├── products.csv
+├── purchase_order_lines.csv
+├── purchase_orders.csv
+├── suppliers.csv
+└── warehouses.csv
 
-sql/
+SQL/
 ├── supply_chain_analysis.sql
 └── vw_inventory_risk_engine.sql
 
-powerbi/
+Power BI/
+└──project2.pbix
 
-screenshots/
+Screenshots/
+├── Screenshot 1.png
+├── Screenshot 2.png
+├── Screenshot 3.png
+└── Screenshot 4.png
