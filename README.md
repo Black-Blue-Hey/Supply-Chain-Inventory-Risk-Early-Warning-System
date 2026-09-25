@@ -81,8 +81,14 @@ The dashboard contains four pages:
 
 ```text
 data/
-
-data_quality_audit/
+└── raw/
+    ├── inventory_movements.csv
+    ├── inventory_opening_balances.csv
+    ├── products.csv
+    ├── purchase_order_lines.csv
+    ├── purchase_orders.csv
+    ├── suppliers.csv
+    └── warehouses.csv
 
 sql/
 ├── supply_chain_analysis.sql
