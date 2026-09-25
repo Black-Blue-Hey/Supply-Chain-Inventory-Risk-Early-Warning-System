@@ -82,7 +82,7 @@ The dashboard contains four pages:
 ```text
 data/
 
-data_quality/
+data_quality_audit/
 
 sql/
 ├── supply_chain_analysis.sql
